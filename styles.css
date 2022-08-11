@@ -6,15 +6,30 @@
 body {
     color: white;
     background-color: black;
-    width: 35em;
     margin: 0 auto;
-    
+    position: static;
+    width: 96%;
 }
 
 p {
+    position: relative;
+    left: 7%;
+    width: 35em;
     font-family: "pixels";
 }
 
 h1 {
+    position: static;
+    left: 20em;
     font-family: "pixels";
+    color: #f8b3db;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration:solid;
+    color: #ffffff;
 }
