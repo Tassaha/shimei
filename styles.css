@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "pixels";
+    src: url("/Fonts/CyberpunkWaifus.ttf");
+}
+
+body {
+    color: white;
+    background-color: black;
+    width: 35em;
+    margin: 0 auto;
+    
+}
+
+p {
+    font-family: "pixels";
+}
+
+h1 {
+    font-family: "pixels";
+}
