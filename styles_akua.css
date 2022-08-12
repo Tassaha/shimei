@@ -1,0 +1,73 @@
+@font-face {
+    font-family: "pixels";
+    src: url("/Fonts/CyberpunkWaifus.ttf");
+}
+
+body {
+    background-image: url("/images/background_akua.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: black;
+    margin: 0 auto;
+    position: static;
+    width: 95%;
+    font-family: "pixels";
+}
+
+.background {
+    color: #ffffff93;
+}
+
+.front {
+    position: relative;
+    width: 80%;
+    left: 10%;
+    color: white;
+}
+
+
+p {
+    position: relative;
+    width: 20em;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    
+}
+
+h1 {
+    position: relative;
+    font-size: 3em;
+   
+}
+
+.top_corner {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    position:relative;
+    font-size: 5em;
+}
+
+video {
+    border-top: #f8b3db;
+    position: relative;
+    border-radius: 5%;
+}
+
+
+.pink {
+    color: #f8b3db;
+}
+
+a {
+    text-decoration: none;
+    color: #f8b3db;
+}
+
+a:hover {
+    text-decoration:solid;
+    color: #ffffff;
+}
+
+.y {
+    color: #ffcb00;
+}
